@@ -1,0 +1,19 @@
+body {
+    font-family: 'Mulish', sans-serif;
+    color: white;
+    background-color: #282828;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    font-size: 1rem;
+}
+.bg-dark {
+    background-color: #212326!important;
+}
+#codeGif {
+    opacity: .5;
+}
+.rw {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
